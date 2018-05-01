@@ -1,3 +1,3 @@
 # Protection
 Bash Protection
-//GG
+//22
