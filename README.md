@@ -1,4 +1,5 @@
 **This Project was created to Protect Gameserver from DDoS attacks using firewall.**
+It was created in 2017
 
 ##### Q. HOW DOES IT PROTECT GAMESERVER?
 A. iplogger.amxx logs ips of currently playing players inside server and use those ips in firewall, which will allow traffics only to those online players and blocks all other traffic completly.
