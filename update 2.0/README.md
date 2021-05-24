@@ -1,5 +1,4 @@
-Update 2.0
+##### Update 2.0
 
-`python3 firewall.py`
-
-run this script in background
+1. Download `firewall.py` and update iplog files path in file before running it.
+2. run this script `python3 firewall.py` in background
