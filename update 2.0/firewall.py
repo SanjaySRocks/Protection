@@ -1,3 +1,11 @@
+############################################################################
+# Basic Protection Script to Protect You GameServer Against DDoS Attacks
+# Author: Sanjay Singh
+# Version: 2.1
+# firewall.py
+# github.com/SanjaySRocks
+############################################################################
+
 import subprocess
 from datetime import datetime
 import bwtop
